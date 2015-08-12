@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+   
+    <pic>
+        <image>gallery/1.jpg</image>
+        <thumbnail>gallery/icons/1.jpg</thumbnail>
+        <caption>King's college</caption>
+    </pic>   
+ 
+    <pic>
+        <image>gallery/SSP_2013_1.jpg</image>
+        <thumbnail>gallery/icons/SSP_2013_1.jpg</thumbnail>
+        <caption>Science. Polish Perspectives</caption>
+    </pic>
+    <pic>
+        <image>gallery/SSP_2013_2.jpg</image>
+        <thumbnail>gallery/icons/SSP_2013_2.jpg</thumbnail>
+        <caption>Science. Polish Perspectives</caption>
+    </pic>
+    <pic>
+        <image>gallery/SSP_2013_3.jpg</image>
+        <thumbnail>gallery/icons/SSP_2013_3.jpg</thumbnail>
+        <caption>Science. Polish Perspectives</caption>
+    </pic>
+  
+
+    <pic>
+        <image>gallery/SSP_2013_6.jpg</image>
+        <thumbnail>gallery/icons/SSP_2013_6.jpg</thumbnail>
+        <caption>Science. Polish Perspectives</caption>
+    </pic>
+ <pic>
+        <image>gallery/SSP_2013_7.jpg</image>
+        <thumbnail>gallery/icons/SSP_2013_7.jpg</thumbnail>
+        <caption>Science. Polish Perspectives</caption>
+    </pic>
+<pic>
+        <image>gallery/science_cafe_2012.jpg</image>
+        <thumbnail>gallery/icons/icons/science_cafe_2012.jpg</thumbnail>
+        <caption>Science Cafe</caption>
+    </pic>
+<pic>
+        <image>gallery/members_2013_1.jpg</image>
+        <thumbnail>gallery/icons/members_2013_1.jpg</thumbnail>
+        <caption>members</caption>
+    </pic>
+
+<pic>
+        <image>gallery/kibicujemy_2012_1.jpg</image>
+        <thumbnail>gallery/icons/kibicujemy_2012_1.jpg</thumbnail>
+        <caption>Euro 2012</caption>
+    </pic>
+<pic>
+        <image>gallery/kibicujemy_2012_2.jpg</image>
+        <thumbnail>gallery/icons/kibicujemy_2012_2.jpg</thumbnail>
+        <caption>Euro 2012</caption>
+    </pic>
+
+<pic>
+        <image>gallery/kameralna_2013_1.jpg</image>
+        <thumbnail>gallery/icons/kameralna_2013_1.jpg</thumbnail>
+        <caption>Kolacja w Warszawie 2013</caption>
+    </pic>
+
+<pic>
+        <image>gallery/kameralna_2013_2.jpg</image>
+        <thumbnail>gallery/icons/kameralna_2013_2.jpg</thumbnail>
+        <caption>Christmas dinner in Warsaw 2013</caption>
+    </pic>
+
+<pic>
+        <image>gallery/freshers_squash_2013.jpg</image>
+        <thumbnail>gallery/icons/freshers_squash_2013.jpg</thumbnail>
+        <caption>Fresher Squash</caption>
+    </pic>
+
+<pic>
+        <image>gallery/football_club.jpg</image>
+        <thumbnail>gallery/icons/football_club.jpg</thumbnail>
+        <caption>Football Club</caption>
+    </pic>
+
+<pic>
+        <image>gallery/andrzejki_2013.jpg</image>
+        <thumbnail>gallery/icons/andrzejki_2013.jpg</thumbnail>
+        <caption>Andrzejki 2013</caption>
+    </pic>
+
+
+
+</images>

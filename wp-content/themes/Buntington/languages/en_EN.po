@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Sofa Buntington\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#. Text in function
+#: translate/comments.php:17
+msgid "%"
+msgstr ""
+
+#. Text in function
+#: translate/inc/comments_loop.php:73
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: translate/comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: translate/comments.php:17
+msgid "0"
+msgstr ""
+
+#. Text in function
+#: translate/comments.php:17
+msgid "1"
+msgstr ""
+
+#. Text in echo
+#: translate/404.php:18
+msgid "404 Error"
+msgstr ""
+
+#. Text in function
+#: translate/image.php:26
+msgid ""
+"<span class=\"news-meta-date\"><time class=\"entry-date\" datetime=\"%1$s\">"
+"%2$s</time></span><span class=\"news-meta-category\"><a href=\"%3$s\" title="
+"\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:773
+msgid ""
+"<strong>How to obtain Gallery ID?</strong><br />Go to Galleries > All "
+"Galleries and copy from \"Gallery ID\" column."
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "Add Course search form to a sidebar."
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "Add Featured Gallery"
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "Add Upcoming Events list"
+msgstr ""
+
+#. Text in echo
+#: translate/archive.php:23
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:388 translate/inc/theme_widgets.php:398
+msgid "Ascending order"
+msgstr ""
+
+#. Text in echo
+#: translate/taxonomy-courses.php:27 translate/archive-course.php:27
+msgid "Available Courses"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:231 translate/inc/theme_widgets.php:226
+msgid "By tag(s)"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:230 translate/inc/theme_widgets.php:225
+msgid "By user"
+msgstr ""
+
+#. Text in echo
+#: translate/comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: translate/contact.php:7
+msgid "Contact Form Submission from "
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:576
+msgid "Contact us via email"
+msgstr ""
+
+#. Text in echo
+#: translate/single-course.php:63
+msgid "Course Downloads:"
+msgstr ""
+
+#. Text in echo
+#: translate/taxonomy-courses.php:43 translate/search-course.php:59
+#: translate/archive-course.php:43 translate/single-course.php:38
+msgid "Course ID"
+msgstr ""
+
+#. Text in echo
+#: translate/taxonomy-courses.php:44 translate/search-course.php:60
+#: translate/archive-course.php:44
+msgid "Course Title"
+msgstr ""
+
+#. Text in function
+#: translate/search-course.php:42
+msgid "Course search results:"
+msgstr ""
+
+#. Text in function
+#: translate/archive.php:23
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:389 translate/inc/theme_widgets.php:399
+msgid "Descending order"
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "Display Flickr photos of target user or by tag(s)."
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "Display N number of recent Posts."
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:1
+msgid "Display Twitter Twitts for a target user."
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:121
+msgid "Drop us Note"
+msgstr ""
+
+#. Text in function
+#: translate/image.php:26
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: translate/admin/metabox/galleries.php:18
+msgid "Edit this image!"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:151
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: translate/contact.php:7
+msgid "Enter a message!"
+msgstr ""
+
+#. Text in function
+#: translate/contact.php:7
+msgid "Enter a valid email address!"
+msgstr ""
+
+#. Text in function
+#: translate/contact.php:7
+msgid "Enter your name!"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:111
+msgid "Exclude replies?"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:61
+msgid "Follow us!"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:61
+msgid "Follow!"
+msgstr ""
+
+#. Text in function
+#: translate/footer.php:23
+msgid "Footer Column Left"
+msgstr ""
+
+#. Text in function
+#: translate/footer.php:37
+msgid "Footer Column Middle"
+msgstr ""
+
+#. Text in function
+#: translate/footer.php:51
+msgid "Footer Column Right"
+msgstr ""
+
+#. Text in function
+#: translate/image.php:26
+msgid "Full resolution"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:770
+msgid "Gallery ID"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:240
+msgid ""
+"If your choice was \"By tag(s)\" - enter a tag or comma separated tags. "
+"Otherwise enter Flickr user ID (something like \"14897087@N04\")."
+msgstr ""
+
+#. Text in function
+#: translate/contact.php:7
+msgid "Invalid email address!"
+msgstr ""
+
+#. Text in echo
+#: translate/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Maybe searching "
+"can help a bit."
+msgstr ""
+
+#. Text in function
+#: translate/image.php:26
+msgid "Link to full-size image"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:170
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:163
+msgid "Message Subject"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:126 translate/inc/theme_widgets.php:121
+msgid "NO"
+msgstr ""
+
+#. Text in echo
+#: translate/404.php:27 translate/content-none.php:13
+msgid "NOTHING FOUND!"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:146
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: translate/comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in echo
+#: translate/single-gallery.php:114
+msgid "Next Gallery:"
+msgstr ""
+
+#. Text in function
+#: translate/image.php:62
+msgid "Next image"
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:479
+msgid "No Upcoming Events found!"
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "No entries found!"
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid "No photos matching given criteria."
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:743
+msgid "No recent posts found!"
+msgstr ""
+
+#. Text in echo
+#: translate/admin/metabox/galleries.php:37
+msgid "No uploaded images yet."
+msgstr ""
+
+#. Text in echo
+#: translate/content-none.php:9
+msgid "Nothing Found!"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:247
+msgid "Number of Flickr thumbs to show"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:408
+msgid "Number of Recent Posts to show"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:104
+msgid "Number of Twitts to show (max 10!)"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:508
+msgid "Number of events to show"
+msgstr ""
+
+#. Text in echo
+#: translate/404.php:33
+msgid "Ooops!"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:159
+msgid "Phone/Cell"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/comments_loop.php:16
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: translate/inc/comments_loop.php:82
+msgid "Post author"
+msgstr ""
+
+#. Text in function
+#: translate/tag.php:23
+msgid "Posts tagged:"
+msgstr ""
+
+#. Text in function
+#: translate/image.php:61
+msgid "Previous image"
+msgstr ""
+
+#. Text in function
+#: translate/content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: translate/inc/comments_loop.php:73
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: translate/taxonomy-galleries.php:22 translate/archive-gallery.php:22
+msgid "School Galleries"
+msgstr ""
+
+#. Text in echo
+#: translate/searchform.php:9 translate/searchform.php:10
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:681
+msgid "Search Info"
+msgstr ""
+
+#. Text in function
+#: translate/search.php:23
+msgid "Search results for:"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:216
+msgid "Show photos by user or tag(s)"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:416
+msgid ""
+"Show posts from category (comma separate category IDs if more than one, for "
+"example: 1, 7, 16)"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-archive.php:1
+msgid "Sidebar Archive"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-category.php:1
+msgid "Sidebar Category"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-contact.php:1
+msgid "Sidebar Contact"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-single-course.php:1
+msgid "Sidebar Course Single"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-courses.php:1
+msgid "Sidebar Courses"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-single-event.php:1
+msgid "Sidebar Event Single"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-events.php:1
+msgid "Sidebar Events"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-galleries.php:1
+msgid "Sidebar Galleries"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-index.php:1
+msgid "Sidebar Index"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-page.php:1
+msgid "Sidebar Page"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-search.php:1
+msgid "Sidebar Search"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-single.php:1
+msgid "Sidebar Single"
+msgstr ""
+
+#. Text in function
+#: translate/sidebars/sidebar-tag.php:1
+msgid "Sidebar Tag"
+msgstr ""
+
+#. Text in echo
+#: translate/header.php:46
+msgid "Site Logo"
+msgstr ""
+
+#. Text in echo
+#: translate/content-none.php:23
+msgid ""
+"Sorry, but nothing matched search criteria. Please try again with different "
+"search terms."
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:384
+msgid "Sort posts"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:138
+msgid "Thanks for contacting us!"
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:129
+msgid "There was an error by form submission."
+msgstr ""
+
+#. Text in function
+#: translate/inc/theme_widgets.php:776
+msgid ""
+"This Widget is used to display information provided in Theme Options > "
+"Contact >> Contact Details."
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:97
+msgid "Twitter Username"
+msgstr ""
+
+#. Text in echo
+#: translate/header.php:86
+msgid "Type in keyword(s) then hit Enter on keyboard"
+msgstr ""
+
+#. Text in echo
+#: translate/archive-event.php:27 translate/taxonomy-events.php:27
+msgid "Upcoming Events"
+msgstr ""
+
+#. Text in echo
+#: translate/404.php:35
+msgid ""
+"What an embarrassing situation, requested page can not be found or it doesn"
+"\\'t exist."
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:622 translate/inc/theme_widgets.php:766
+msgid "Widget Title"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/theme_widgets.php:125 translate/inc/theme_widgets.php:120
+msgid "YES"
+msgstr ""
+
+#. Text in echo
+#: translate/inc/comments_loop.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: translate/contact.php:139
+msgid ""
+"Your message was sent successfully. We will get in touch with you shortly."
+msgstr ""
+
+#. Text in echo
+#: translate/admin/classes/shortcodegeneratorbase.php:206
+msgid "cancel"
+msgstr ""
+
+#. Text in echo
+#: translate/admin/classes/shortcodegeneratorbase.php:205
+msgid "insert"
+msgstr ""
+
+#. Text in echo
+#: translate/single-event.php:43
+msgid "to"
+msgstr ""
